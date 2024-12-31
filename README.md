@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @alvarogalloc
+- Hey, I’m @alvarogalloc
 
-I am a high school student that likes to code, specially low level and math related stuff, so dont expect pretty-color things here haha
+I am a CS undergraduate student that likes to code, especially low-level and math-related stuff.  
+Currently, I study at **Universidad Panamericana Campus Guadalajara**.
 
-<!---
-alvarogalloc/alvarogalloc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My Skills and Experience:
+
+#### Web Technologies:
+- **Frontend:** React, JavaScript, CSS, HTML  
+- Experience building responsive and interactive web applications.
+
+#### Programming Languages:
+- **Modern C++ (C++20, C++23):** Interested in the language standardarization.  
+- **Python:** Skilled in scripting, data analysis, and automation.
+
+#### Areas of Interest:
+- Low-level programming  
+- Mathematics and algorithms  
+- Modelling scalable software
